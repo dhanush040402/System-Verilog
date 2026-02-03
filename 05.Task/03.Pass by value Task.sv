@@ -3,7 +3,7 @@ module pass_by_value_task;
   int out;
   
   
-  task multiply(int a,b, output int out);
+	task multiply(int a=5,b=6, output int out);
     a = a*b; 
     out = a;
   endtask
