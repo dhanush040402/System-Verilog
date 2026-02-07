@@ -2,6 +2,7 @@ class Packet;
   int addr;
 endclass
 
+module shallow;
 Packet p1, p2;
 
 initial begin
@@ -15,3 +16,4 @@ initial begin
   $display("p1.addr = %h", p1.addr);
   $display("p2.addr = %h", p2.addr); 
 end
+endmodule
