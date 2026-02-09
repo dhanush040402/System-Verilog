@@ -2,7 +2,7 @@ class Packet;
   int addr;
 endclass
 
-module shallow;
+module class_assignment;
 Packet p1, p2;
 
 initial begin
