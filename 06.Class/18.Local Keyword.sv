@@ -1,13 +1,13 @@
 class transaction;
   bit [31:0] data;
-  local int id;
+  int id;
 
   function new();
     data = 100;
     id = 1;
   endfunction
   
-  function void display();
+  local function void display();
     $display("data = %0d and id = %0d", data, id);
   endfunction
 endclass
