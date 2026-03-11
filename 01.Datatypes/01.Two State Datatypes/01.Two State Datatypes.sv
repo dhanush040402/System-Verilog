@@ -1,3 +1,4 @@
+//two state datatypes
 module two_state_datatypes;
 
   bit [3:0]   a;
