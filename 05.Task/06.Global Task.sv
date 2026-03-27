@@ -1,3 +1,4 @@
+//Global task
 task mul(input int var1,var2,output int res);
   #1 res=var1*var2;
 endtask
