@@ -1,3 +1,4 @@
+//static and automatic
 module static_automatic_task;
 
     task static_inc(int id);
