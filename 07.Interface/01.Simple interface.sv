@@ -1,3 +1,4 @@
+//interface
 module fulladder(full i);
   assign {i.ca,i.s} = i.a+i.b+i.c;
 endmodule
