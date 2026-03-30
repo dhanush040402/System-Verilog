@@ -1,3 +1,4 @@
+//single dimensional array
 module single_dimensional_array;
   int array[5] = '{15,7,3,12,5};
   initial begin
