@@ -1,3 +1,4 @@
+//two dimensinal array
 module two_dimensional_array;
   int array[3][2] = '{'{1, 100}, '{2, 200}, '{3, 300}};
   initial begin
