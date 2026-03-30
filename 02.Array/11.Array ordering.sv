@@ -1,3 +1,4 @@
+//array ordering
 module array_ordering;
 
   int a[] = '{5, 2, 9, 1, 5, 6};
