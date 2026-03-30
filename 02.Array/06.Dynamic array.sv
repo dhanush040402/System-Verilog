@@ -1,3 +1,4 @@
+//dynamic array
 module dynamic_array;
   int array [];
   initial begin
