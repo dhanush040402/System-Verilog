@@ -1,3 +1,4 @@
+//associative array
 module associative_array_example;
 
   int aa[int];
