@@ -1,3 +1,4 @@
+// array locator
 module array_locators;
 
   int q[$] = '{1, 3, 5, 7};
