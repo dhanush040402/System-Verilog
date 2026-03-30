@@ -1,3 +1,4 @@
+//unpacked array
 module unpacked_array;
   int mem [0:3][0:7];
 
