@@ -1,3 +1,4 @@
+//dynamic array methods
 module dynamic_methods;
 
   int d1[];
