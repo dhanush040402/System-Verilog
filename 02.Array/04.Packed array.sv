@@ -1,3 +1,4 @@
+//packed array
 module packed_array;
   bit [7:0] data;
 
