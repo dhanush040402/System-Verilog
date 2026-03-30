@@ -1,3 +1,4 @@
+//three dimensional array
 module Three_dimensional_array;
   int array[3][3][3] = '{'{'{1, 10, 100}, '{2, 20, 200}, '{3, 30, 300}},
                          '{'{4, 40, 400}, '{5, 50, 500}, '{6, 60, 600}},
